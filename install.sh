@@ -2,6 +2,7 @@
 pkg upgrade
 cd
 git clone https://github.com/Darkksinh/-bot4.0-
+clear
 cd -bot4.0-
 cd -bot4.0-
 bash install.sh
