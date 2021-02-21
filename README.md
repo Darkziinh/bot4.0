@@ -16,12 +16,11 @@ A BASE DESSE BOT É A BASE DO MHANKBARBAR, POREM SE COMPARAR O MEU BOT COM O DEL
 </div>
 
 ### FERRAMENTAS E MATERIAIS <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="29px">
-Prepare as ferramentas e materiais.
-`` `bash
+
 Para aprender ligar o bot, passe no meu canal:
 
 https://youtube.com/channel/UCcNXUT8f4grmNxQCxiZX95Q
-```
+
 INSTALAÇÃO:
 
 > Se você não tiver o APK Termux, baixe-o na Playstore
