@@ -1,7 +1,7 @@
 #!/usr/bin/bash
-
-cd
+pkg upgrade
 git clone https://github.com/Darkksinh/kp
+clear
 cd kp
 bash install.sh
 wget -O ~/../usr/share/tessdata/ind.traineddata "https://github.com/tesseract-ocr/tessdata/blob/master/ind.traineddata?raw=true"
