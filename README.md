@@ -38,8 +38,40 @@ INSTALAÇÃO:
 
 | D4RK BOT      |                   Característica        |
 | :-----------: | :------------------------------: |
-.                             |
-|       ✅       | MAIS DE 200 COMANDOS 🍂        |
+|       ✅       | Criador de figurinhas               |
+|       ✅       | gcpf2                            |
+|       ✅       | musica                      |
+|       ✅       | play                       |
+|       ✅       | sem prefix                      |
+|       ✅       | Foto Anime                       |
+|       ✅       | Figurinhas           |
+|       ✅       | Pantun                           |
+|       ✅       | Youtube Downloader               |
+|       ✅       | Quotes                           |
+|       ✅       | Nome (Novo)                       |
+|       ✅       | Foto Anime                       |
+|       ✅       | Casal (Novo)                   |
+|       ✅       | Oração (Novo )                    |
+|       ✅       | Google Voice (fix)               |
+|       ✅       | Alcorão                            |
+|       ✅       | Downloader MP3 do Youtube           |
+|       ✅       | Downloader Instagram              |
+|       ✅       | Twitter Downloader               |
+|       ✅       | Downloader do Facebook              |
+|       ✅       | Downloader TikTok (novo)         |
+|       ✅       | Wikipedia                        |
+|       ✅       | Say                              |
+|       ✅       | Tóxico (Novo)                      |
+|       ✅       | loli                             |
+|       ✅       | hentai                           |
+|       ✅       | Proprietário (novo)                      |
+|       ✅       | disse o sábio                       |
+|       ✅       | Facto                            |
+|       ✅       | Pokemon                          |
+|       ✅       | Info                             |
+|       ✅       | Doar                           |
+|       ✅       | 18+.                             |
+|       ✅       | MAIS recursos em breve 🍂        |
 
 DARKZIN DOMINA 🐦❤️
 
