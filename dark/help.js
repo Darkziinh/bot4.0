@@ -1,6 +1,8 @@
-const help = (prefix) => {
+const help = () => { 
 	return `
 ╔══✪〘 INFO 〙✪══
+║
+╠OLA 
 ║
 ╠➥ 𝐃𝐀𝐑𝐊 𝐁𝐎𝐓
 ╠➥ *3.2*
@@ -261,6 +263,7 @@ const help = (prefix) => {
 ╠══✪〘 OUTROS /3 〙✪══
 ║
 ║191 *${prefix}atris* 🔞
+║192 *${prefix}animemenu*
 ║
 ╠══✪〘 CMDS DE VÍDEO 〙✪══
 ║

@@ -1,6 +1,8 @@
-const help = (prefix) => {
+const help = () => { 
 	return `
 ╔══✪〘 INFO 〙✪══
+║
+╠OLA 
 ║
 ╠➥ 𝐃𝐀𝐑𝐊 𝐁𝐎𝐓
 ╠➥ *3.2*
@@ -287,6 +289,12 @@ const help = (prefix) => {
 ║198 *${prefix}teto1*
 ║199 *${prefix}edit1*
 ║200 *${prefix}edit2*
+║201 *${prefix}edit3*
+║202 *${prefix}edit4*
+╠═══════════════
+║
+║ *MAIS COMANDOS*
+║ *PRÓXIMA ATT*
 ║
 ╠══✪〘 𝗗𝗢𝗡𝗢 〙✪══
 ║
