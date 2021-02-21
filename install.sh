@@ -9,4 +9,4 @@ cd
 cd kp
 npm start
 
-echo "[*] iniciando o bot \"darkbot\" aguarde"
+echo "[*] obrigado por utilizar o bot \"darkbot\" dark agradece"
