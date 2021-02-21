@@ -38,8 +38,8 @@ INSTALAÇÃO:
 
 | D4RK BOT      |                   Característica        |
 | :-----------: | :------------------------------: |
-|       ✅       | ...                  |
-|NAO DA PRA CITAR TODOS, MAIS SAO MAIS DE 200.        |
+|       ✅       |                 |
+|NAO DA PRA CITAR TODOS, MAIS SAO MAIS DE 200. |      |
 
 DARKZIN DOMINA 🐦❤️
 
