@@ -34,12 +34,12 @@ INSTALAÇÃO:
 > Basta escanear o código qr e ... pronto
 ```
 
-## COMANDOS  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29px">
+## CARACTERÍSTICAS  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29px">
 
 | D4RK BOT      |                   Característica        |
 | :-----------: | :------------------------------: |
-|       ✅       |                 |
-|NAO DA PRA CITAR TODOS, MAIS SAO MAIS DE 200. |      |
+.                             |
+|       ✅       | MAIS DE 200 COMANDOS 🍂        |
 
 DARKZIN DOMINA 🐦❤️
 
